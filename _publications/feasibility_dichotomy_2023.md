@@ -1,7 +1,7 @@
 ---
 title: "Investigating the feasibility of an impact-induced Martian Dichotomy"
 collection: publications
-permalink: /_publications/feasibility_dichotomy_2023
+permalink: /publication/feasibility_dichotomy_2023
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
