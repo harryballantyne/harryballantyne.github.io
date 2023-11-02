@@ -2,14 +2,12 @@
 title: "Investigating the feasibility of an impact-induced Martian Dichotomy"
 collection: publications
 permalink: /publication/feasibility_dichotomy_2023
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: "I used complex simulations to show that the traditional theory of a giant impact in Mars' northern hemisphere forming the 'Martian Dichotomy' is unlikely, suggesting that a more plausible scenario involves an impact and localized magma ocean in the southern hemisphere resulting in a thicker crust in the south, with specific parameters for the impacting object and impact conditions provided."
+date: 2023-03-01
+venue: 'Icarus'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0019103522004870'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Ballantyne, H.A. et al. (2023), &quot;Investigating the feasibility of an impact-induced Martian Dichotomy.&quot; <i>Icarus</i>, 392, p. 115395.'
 ---
-#This paper is about the number 1. The number 2 is left for future work.
+A giant impact is commonly thought to explain the dramatic contrast in elevation and crustal thickness between the two hemispheres of Mars known as the "Martian Dichotomy". Initially, this scenario referred to an impact in the northern hemisphere that would lead to a huge impact basin (dubbed the "Borealis Basin"), while more recent work has instead suggested a hybrid origin that produces the Dichotomy through impact-induced crust-production. The majority of these studies have relied upon impact scaling-laws inaccurate at such large-scales, however, and those that have included realistic impact models have utilised over-simplified geophysical models and neglected any material strength. Here we use a large suite of strength-including smoothed-particle hydrodynamics (SPH) impact simulations coupled with a more sophisticated geophysical scheme of crust production and primordial crust to simultaneously investigate the feasibility of a giant impact on either hemisphere of Mars to have produced its dichotomous crust distribution, and utilise spherical harmonic analysis to identify the best-fitting cases. We find that the canonical Borealis-forming impact is not possible without both excessive crust production and strong antipodal effects not seen on Mars' southern hemisphere today. Our results instead favour an impact and subsequent localised magma ocean in the southern hemisphere that results in a thicker crust than the north upon crystallisation. Specifically, our best-fitting cases suggest that the projectile responsible for the Dichotomy-forming event was of radius 500-750 km, and collided with Mars at an impact angle of 15-30° with a velocity of 1.2-1.4 times mutual escape speed (∼6-7 km/s).
 
-#[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://harryballantyne.github.io/files/feasibilityMars.pdf)
