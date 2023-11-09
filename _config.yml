@@ -181,11 +181,11 @@ collections:
   publications:
     output: false
     permalink: /:collection/:path/
-  portfolio:
+  science:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _science
   - scope:
       path: ""
-      type: portfolio
+      type: science
     values:
       layout: single
       author_profile: true
