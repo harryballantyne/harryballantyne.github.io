@@ -1,6 +1,6 @@
 ---
-title: "Science item number 1"
-excerpt: "Short description of science item number 1<br/><img src='/images/500x300.png'>"
+title: "Sputnik Planitia"
+excerpt: "<img src='/images/pluto_hd.png'><br/>_Image credit: NASA_"
 collection: science
 ---
 
