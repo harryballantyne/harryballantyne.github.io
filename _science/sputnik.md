@@ -16,7 +16,7 @@ Using smoothed-particle hydrodynamics (SPH) simulations that include the often n
 <img src='/images/splatnik.png'>
 _An example simulation showing the proposed impact mechanism to form Sputnik Planitia. Colour represents the composition and parent body: purple is the impacting body core, blue Pluto's core, green the impacting body mantle and yellow Pluto's mantle. (a) Right after impact: A crater forms, and the impacting body's core slows down. (b) After the crater collapses: The crater fills with the impacting body's mantle, and the impacting body's core begins descending towards Pluto's core-mantle boundary. (c) 6 hours later: Pluto's altered state after the collision is shown._
 
-This work is contained in manuscript that is currently under review in Nature Astronomy.
+This work was [published](https://www.nature.com/articles/s41550-024-02248-1) in Nature Astronomy.
 
 **References:**
 <br>
